@@ -58,6 +58,22 @@
             <param term='handled'>Informs the caller if the command was handled or not.</param>
             <seealso class='Exec' />
         </member>
+        <member name="T:SaveTabs.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:SaveTabs.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:SaveTabs.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
         <member name="M:SaveTabs.UserControl1.Initialize(EnvDTE80.DTE2)">
             <summary>
             
