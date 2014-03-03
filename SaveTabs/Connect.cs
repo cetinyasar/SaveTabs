@@ -21,6 +21,8 @@ namespace SaveTabs
 		public Connect()
 		{
             //yey
+
+			//ali - çetin'in github repository sine direk commit denemesi
 		}
 
 		//
